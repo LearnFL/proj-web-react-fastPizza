@@ -1,8 +1,42 @@
-# React + Vite
+# Fast React Pizza 🍕🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Fast React Pizza** repository! This project demonstrates my skills in building a modern web application using React.js and its ecosystem. The app is designed to showcase various advanced React tools and techniques, including hooks, state management, routing, and performance optimization.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+
+## Features
+
+- **Dynamic Routing:** Implemented using the new React Router.
+- **State Management:** Utilized Redux Toolkit for global state management.
+- **Context API:** Leveraged Context API for managing local state.
+- **React Hooks:** Employed various hooks such as `useFetcher`, `useNavigate`, `useEffect`, and `useState`.
+- **Performance Optimization:** Used memoization techniques to optimize performance.
+- **Responsive Design:** Ensured the app is mobile-friendly and responsive.
+
+## Technologies Used
+
+- **React.js**
+- **React Router**
+- **Redux Toolkit**
+- **Context API**
+- **CSS Modules**
+- **Webpack**
+- **Babel**
+- **Tailwind**
+- **VITE**
+
+## Usage
+
+Once the development server is running, you can explore the following features:
+
+1. **Browse Pizzas:** View a list of available pizzas.
+2. **Add to Cart:** Add pizzas to your cart and manage your selections.
+3. **Fetch location data:** Click location button when checkout to dinamically load your location. 
+4. **Checkout:** Proceed to checkout with your selected pizzas.
+5. **Update priority** Once the order has been submitted, send a patch request to update priority by clicking "Make priority" button on confirmation screen.
+
+
