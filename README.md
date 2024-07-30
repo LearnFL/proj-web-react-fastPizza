@@ -39,4 +39,10 @@ Once the development server is running, you can explore the following features:
 4. **Checkout:** Proceed to checkout with your selected pizzas.
 5. **Update priority** Once the order has been submitted, send a patch request to update priority by clicking "Make priority" button on confirmation screen.
 
+<img width="1427" alt="Screenshot 2024-07-30 at 5 30 35 PM" src="https://github.com/user-attachments/assets/a9147d1f-d3bd-42e4-80a3-9b48c9bf9142">
+<img width="1426" alt="Screenshot 2024-07-30 at 5 31 11 PM" src="https://github.com/user-attachments/assets/b21949a9-fdff-47e1-914b-36ab0c426d45">
+<img width="1420" alt="Screenshot 2024-07-30 at 5 31 29 PM" src="https://github.com/user-attachments/assets/41c0ff5d-925b-446d-90bb-6ee076980fc9">
+<img width="1432" alt="Screenshot 2024-07-30 at 5 32 14 PM" src="https://github.com/user-attachments/assets/c4575cef-d9d2-4cac-9bc4-6a035240594b">
+<img width="1425" alt="Screenshot 2024-07-30 at 5 32 24 PM" src="https://github.com/user-attachments/assets/beee392d-a8a6-4761-b0df-f3f267fdb2e9">
+
 
